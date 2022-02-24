@@ -10,5 +10,6 @@ int main(void){
     //return EXIT_SUCCESS;
     funcPrint("webo");
     return(0);
+    
 
 }
